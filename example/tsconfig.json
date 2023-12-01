@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "react-p2p": ["../src/index"],
+      "react-p2p/*": ["../src/*"]
+    }
+  }
+}

@@ -1,6 +1,6 @@
-# react-p2p
+# react-peer-2-peer
 
-react p2p communication
+react-peer-2-peer communication
 
 # API documentation
 

@@ -1,5 +1,5 @@
 {
-  "name": "react-p2p",
+  "name": "react-peer-2-peer",
   "version": "0.1.0",
   "description": "react p2p communication",
   "main": "build/index.js",
